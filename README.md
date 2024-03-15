@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BICT 7th Sem**
 
-- 💬 Ask me about **react ,node, mysql ,mongoDB, ejs,oops**
+- 💬 Ask me about **react, node, js, MySQL, mongoDB, ejs, oops**
 
 - 📫 How to reach me **madankhadka2057@gmail.com**
 
