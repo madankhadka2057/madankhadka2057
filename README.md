@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madan Khadka</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer from Nepal</h3>
 <img align="right" alt="coding" width="380" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madankhadka2057&label=Profile%20views&color=0e75b6&style=flat" alt="madankhadka2057" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BICT 7th Sem**
+- 🌱 I’m currently learning **BICT 8th Sem**
 
-- 💬 Ask me about **react, node, js, MySQL, mongoDB, ejs, oops**
+- 💬 Ask me about **react, node, .net js, MySQL, mongoDB, ejs, oops**
 
 - 📫 How to reach me **madankhadka2057@gmail.com**
 
