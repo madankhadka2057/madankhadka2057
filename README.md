@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BICT 8th Sem**
-
 - 💬 Ask me about **react, node, .net js, MySQL, mongoDB, ejs, oops**
 
 - 📫 How to reach me **madankhadka2057@gmail.com**
