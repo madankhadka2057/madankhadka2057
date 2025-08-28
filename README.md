@@ -60,5 +60,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madankhadka2057&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=madankhadka2057&theme=dark" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=madankhadka2057" alt="GitHub Streak" /></p>
 
