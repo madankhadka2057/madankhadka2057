@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="380" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madankhadka2057&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="40" height="40" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madankhadka2057&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="100" height="100" /> </p>
 
 - 💬 Ask me about **React, Node.js, .NET, MySQL, MongoDB, EJS, OOPs**  
 - 📫 How to reach me: **madankhadka2057@gmail.com**  
