@@ -60,5 +60,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madankhadka2057&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=madankhadka2057)](https://git.io/streak-stats)</p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=madankhadka2057" alt="GitHub Streak" /></a></p>
 
