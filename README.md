@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madankhadka2057&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="40" height="40" /> </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter Follow" />
-  </a>
-</p>
-
 - 💬 Ask me about **React, Node.js, .NET, MySQL, MongoDB, EJS, OOPs**  
 - 📫 How to reach me: **madankhadka2057@gmail.com**  
 - ⚡ Fun fact: **I think I am funny 😁🤗**  
